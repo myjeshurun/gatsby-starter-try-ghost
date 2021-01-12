@@ -13,7 +13,7 @@ module.exports = {
     siteTitleMeta: `寻求你面`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `Turn your Ghost blog into a flaring fast static site with Gatsby`,
+    siteDescriptionMeta: `要寻求耶和华与他的能力，时常寻求他的面。（诗篇105:4）`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `寻求你面`,
