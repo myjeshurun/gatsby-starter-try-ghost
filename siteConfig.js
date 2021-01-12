@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://seekgod.herokuapp.com`,
+    siteUrl: `https://seekinggod.cn`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
